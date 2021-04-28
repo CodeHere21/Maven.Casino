@@ -1,8 +1,8 @@
 Contributors:
-Mike Ninh, (@MNinh)
-Justin Banks, (@Jbanksalpha)
-Monali Khandelwal, (@Monali-Khandelwal)
-Alena Litouka, (@CodeHere21)
+Mike Ninh (@MNinh),
+Justin Banks (@Jbanksalpha),
+Monali Khandelwal (@Monali-Khandelwal),
+Alena Litouka (@CodeHere21)
 
 
 
